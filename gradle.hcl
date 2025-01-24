@@ -46,4 +46,5 @@ sha256sums = {
   "https://services.gradle.org/distributions/gradle-8.11-bin.zip": "57dafb5c2622c6cc08b993c85b7c06956a2f53536432a30ead46166dbca0f1e9",
   "https://services.gradle.org/distributions/gradle-8.11.1-bin.zip": "f397b287023acdba1e9f6fc5ea72d22dd63669d59ed4a289a29b1a76eee151c6",
   "https://services.gradle.org/distributions/gradle-8.12-bin.zip": "7a00d51fb93147819aab76024feece20b6b84e420694101f276be952e08bef03",
+  "https://services.gradle.org/distributions/gradle-8.12.1-bin.zip": "8d97a97984f6cbd2b85fe4c60a743440a347544bf18818048e611f5288d46c94",
 }
